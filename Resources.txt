@@ -1,7 +1,0 @@
-Resources:
- 1. Java Just-In-Time (JIT) Compiler - https://singztechmusings.wordpress.com/2011/07/03/java-what-is-jit-compiler-and-how-does-it-work/
-
- 2. Calculator for log : http://www.calculator.net/log-calculator.html
-
- 3. Difference between Comparator and Comparable interface : https://www.javacodegeeks.com/2013/03/difference-between-comparator-and-comparable-in-java.html
-    http://tutorials.jenkov.com/java-collections/sorting.html
