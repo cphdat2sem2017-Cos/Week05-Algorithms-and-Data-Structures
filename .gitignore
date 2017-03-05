@@ -1,0 +1,29 @@
+
+# Created by https://www.gitignore.io/api/netbeans,java
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+
+### Java ###
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/demo/day1Collection and Efficiency - Demo code/Benchmark_Collections/nbproject/private/
+/demo/Time_measure_demo/nbproject/private/
+/demo/day1Time_measure_demo/nbproject/private/
+/demo/day2BinarySearchTreesDemo/BinarySearchTreeDemo/nbproject/private/
+/demo/day2BinarySearchTreesDemo/Recursion Demo/nbproject/private/
+/demo/day2BinarySearchTreesDemo/RecursionListDemo/nbproject/private/
+/demo/BinarySearchTreeDemo/nbproject/private/
