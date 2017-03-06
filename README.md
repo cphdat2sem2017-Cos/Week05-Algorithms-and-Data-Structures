@@ -20,6 +20,7 @@ The goal is to get an understanding of how one views efficiency of computer prog
 
 ###Exercises:
 * [Exercises for day1](study/day1exercises.md)
+* [Comparator Exercise](https://docs.google.com/spreadsheets/d/1mdFHbZI6sfXEksNIi9YHRbf83xIggH5Zs2nQFADrfjU/edit?usp=sharing)
 
 
 ###Videos:
