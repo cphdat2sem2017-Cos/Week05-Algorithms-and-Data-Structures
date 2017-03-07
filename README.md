@@ -46,6 +46,7 @@ The goal is to be able to work with recursion - and in particular exemplified by
 The video's from Lynda.com gives the basics.
 
 * [Binary tree](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Introduction-tree-data-structures/149042/177132-4.html?org=cphbusiness.dk) and [Binary Search Tree](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Understanding-binary-search-trees-BST/149042/177133-4.html?org=cphbusiness.dk) are well explained in these two sections at Linda.com
+* [Animation for Factorial to help you visualise recursion](https://www.cs.usfca.edu/~galles/visualization/RecFact.html)
 
 ###Exercises:
 * [Exercises from day2](study/day2excercises.md)
