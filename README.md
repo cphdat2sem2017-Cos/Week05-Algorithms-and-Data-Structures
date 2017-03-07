@@ -49,7 +49,7 @@ The video's from Lynda.com gives the basics.
 * [Animation for Factorial to help you visualise recursion](https://www.cs.usfca.edu/~galles/visualization/RecFact.html)
 
 ###Exercises:
-* [Exercises from day2](study/day2excercises.md)
+* [Exercises from day2](study/day2exercises.md)
 
 ##Day 3 - Recursive sorting algorithms
 Sorting is one of the most important fundamental issues in computing - we will look at some of the recursive sorting algorithms.
