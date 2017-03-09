@@ -1,11 +1,11 @@
 #Studypoint exercise - collection & algorithms
 
-## Handin: Sunday September 25th at 23:59
+## Handin: Sunday 12th March at 23:59
 As before, send your handin to **aflevering2sem@gmail.com**
 
 This exercise should be solved and handed in in pairs (two persons). Remember to put both names in the hand-in email.
 
-**Handin should be a single pdf document, written in English (not Welch)**.
+**Handin should be a single pdf document, written in English (not Welsh)**.
 
 ##Problem 1
 
