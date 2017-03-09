@@ -74,6 +74,9 @@ Today we will work on a few more algorithms and data structures to ground the pr
 
 ### Readings
 * [Hashing & Hashmaps](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-associative-arrays/149042/177125-4.html?org=cphbusiness.dk) - this section and the next two (three sections total "Using associative arrays", "Understanding hash functions" and "Using hash tables").
+* [Hash Table Data Strucutre](https://www.tutorialspoint.com/data_structures_algorithms/hash_data_structure.htm)
+* [Hast Table Example](http://beginnersbook.com/2014/07/hashtable-in-java-with-example/)
+
 
 ### Exercises
 * [Exercises for day4](day4exercises.md)
