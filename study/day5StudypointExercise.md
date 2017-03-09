@@ -1,7 +1,7 @@
 #Studypoint exercise - collection & algorithms
 
 ## Handin: Sunday 12th March at 23:59
-As before, send your handin to **aflevering2sem@gmail.com**
+As before, send your handin to Moodle
 
 This exercise should be solved and handed in in pairs (two persons). Remember to put both names in the hand-in email.
 
